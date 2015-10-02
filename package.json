@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-zavatta",
+  "version": "1.0.0",
+  "description": "An eslint config, designed to help you in dark times.",
+  "main": "index.js",
+  "author": "42Zavattas",
+  "license": "BSD",
+  "dependencies": {
+    "babel-eslint": "^4.1.3",
+    "eslint": "^1.6.0"
+  }
+}
