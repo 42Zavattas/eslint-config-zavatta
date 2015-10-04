@@ -177,7 +177,7 @@ module.exports = {
     'prefer-reflect': 0,
     'prefer-template': 2,
     'require-yield': 2,
-    'max-params': [2, 3]
+    'max-params': [2, 4]
   }
 
 };
