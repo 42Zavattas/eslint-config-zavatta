@@ -114,7 +114,7 @@ module.exports = {
     'eol-last': 2,
     'func-names': 0,
     'func-style': 0,
-    'id-length': [2, { 'min': 1, 'max': 20 }],
+    'id-length': [2, { 'min': 1, 'max': 25 }],
     'id-match': 0,
     'indent': [2, 2],
     'jsx-quotes': [2, 'prefer-single'],
