@@ -29,7 +29,7 @@ module.exports = {
     'no-sparse-arrays': 2,
     'no-unreachable': 2,
     'use-isnan': 2,
-    'valid-jsdoc': 2,
+    'valid-jsdoc': 0,
     'valid-typeof': 2,
     'no-unexpected-multiline': 2,
     'block-scoped-var': 2,
