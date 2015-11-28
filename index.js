@@ -1,5 +1,3 @@
-'use strict';
-
 module.exports = {
 
   parser: 'babel-eslint',
@@ -82,7 +80,7 @@ module.exports = {
     'vars-on-top': 2,
     'wrap-iife': 2,
     'yoda': 2,
-    'strict': [2, 'global'],
+    'strict': [2, 'never'],
     'init-declarations': [0, 'never'],
     'no-catch-shadow': 2,
     'no-delete-var': 2,
@@ -149,7 +147,7 @@ module.exports = {
     'quotes': [2, 'single'],
     'require-jsdoc': 0,
     'semi-spacing': [2, { 'before': false, 'after': true }],
-    'semi': [2, 'always'],
+    'semi': [2, 'never'],
     'sort-vars': 0,
     'space-after-keywords': [2, 'always'],
     'space-before-keywords': [2, 'always'],
@@ -161,7 +159,7 @@ module.exports = {
     'space-unary-ops': [2, { 'words': true, 'nonwords': false }],
     'spaced-comment': [2, 'always'],
     'wrap-regex': 2,
-    'arrow-parens': [2, 'as-needed'],
+    'arrow-parens': 0,
     'arrow-spacing': [2, { 'before': true, 'after': true }],
     'constructor-super': 2,
     'generator-star-spacing': [2, { 'before': true, 'after': false }],
@@ -180,4 +178,4 @@ module.exports = {
     'max-params': [2, 5]
   }
 
-};
+}
