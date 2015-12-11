@@ -117,7 +117,7 @@ module.exports = {
     'indent': [2, 2],
     'jsx-quotes': [2, 'prefer-single'],
     'key-spacing': [2, { 'beforeColon': false, 'afterColon': true }],
-    'lines-around-comment': [2, { 'beforeBlockComment': true, 'afterBlockComment': false }],
+    'lines-around-comment': 0,
     'linebreak-style': [2, 'unix'],
     'max-nested-callbacks': [2, 3],
     'new-cap': 0,
