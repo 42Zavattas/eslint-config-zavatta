@@ -6,7 +6,7 @@ module.exports = {
     node: true
   },
   rules: {
-    'comma-dangle': 0,
+    'comma-dangle': [2, 'never'],
     'no-cond-assign': [2, 'always'],
     'no-console': 2,
     'no-constant-condition': 2,
