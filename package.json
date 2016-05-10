@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-zavatta",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "An eslint config, designed to help you in dark times.",
   "main": "index.js",
   "author": "42Zavattas",
