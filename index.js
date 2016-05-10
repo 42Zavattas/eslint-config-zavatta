@@ -65,7 +65,7 @@ module.exports = {
     'no-process-env': 0,
     'no-proto': 2,
     'no-redeclare': 2,
-    'no-return-assign': 2,
+    'no-return-assign': 0,
     'no-script-url': 2,
     'no-self-compare': 2,
     'no-sequences': 2,
