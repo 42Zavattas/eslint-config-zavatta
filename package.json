@@ -4,5 +4,13 @@
   "description": "An eslint config, designed to help you in dark times.",
   "main": "index.js",
   "author": "42Zavattas",
-  "license": "BSD"
+  "license": "BSD",
+  "scripts": {
+    "find-rules": "eslint-find-rules -u index.js -n"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.0.1",
+    "eslint-find-rules": "^1.11.0"
+  }
 }

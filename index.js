@@ -1,5 +1,4 @@
 module.exports = {
-
   parser: 'babel-eslint',
   env: {
     browser: true,
@@ -175,5 +174,4 @@ module.exports = {
     'require-yield': 2,
     'max-params': [2, 5]
   }
-
 }
