@@ -159,6 +159,8 @@ module.exports = {
     'no-inline-comments': 2,
     'no-lonely-if': 2,
     'no-mixed-spaces-and-tabs': 2,
+    'no-tabs': 2,
+    'multiline-ternary': 0,
     'no-multiple-empty-lines': [2, { 'max': 1 }],
     'no-nested-ternary': 0,
     'no-negated-condition': 0,
