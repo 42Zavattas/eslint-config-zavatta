@@ -120,7 +120,7 @@ module.exports = {
     'no-shadow': 0,
     'no-undef-init': 2,
     'no-undef': 2,
-    'no-undefined': 2,
+    'no-undefined': 0,
     'no-unused-vars': 2,
     'no-use-before-define': 0,
     'callback-return': 2,
