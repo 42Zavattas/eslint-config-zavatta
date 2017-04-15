@@ -4,6 +4,9 @@ module.exports = {
     browser: true,
     node: true
   },
+  globals: {
+    Promise: false,
+  },
   rules: {
     'accessor-pairs': 2,
     'consistent-return': 0,
