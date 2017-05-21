@@ -237,7 +237,7 @@ module.exports = {
     'no-global-assign': 2,
     'no-restricted-properties': 0,
     'no-template-curly-in-string': 0,
-    'class-methods-use-this': 2,
+    'class-methods-use-this': 0,
     'lines-around-directive': 0,
     'no-multi-assign': 2,
     'no-unsafe-negation': 2,
