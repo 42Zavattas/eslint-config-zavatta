@@ -102,7 +102,7 @@ module.exports = {
     'no-return-assign': 0,
     'no-script-url': 2,
     'no-self-compare': 2,
-    'no-sequences': 2,
+    'no-sequences': 0,
     'no-throw-literal': 2,
     'no-unused-expressions': 2,
     'no-useless-call': 2,
