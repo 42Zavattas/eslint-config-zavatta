@@ -9,8 +9,10 @@
     "find-rules": "eslint-find-rules -u index.js -n"
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
     "eslint": "^4.0.0",
     "eslint-find-rules": "^3.1.1"
+  },
+  "dependencies": {
+    "babel-eslint": "^7.2.3"
   }
 }
