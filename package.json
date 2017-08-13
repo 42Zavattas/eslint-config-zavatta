@@ -9,7 +9,7 @@
     "find-rules": "eslint-find-rules -u index.js -n"
   },
   "devDependencies": {
-    "eslint": "^4.0.0",
+    "eslint": "^4.4.1",
     "eslint-find-rules": "^3.1.1"
   },
   "dependencies": {
