@@ -78,7 +78,6 @@ module.exports = {
     'no-caller': 2,
     'no-div-regex': 2,
     'no-else-return': 2,
-    'no-labels': 2,
     'no-eval': 2,
     'no-extend-native': 2,
     'no-extra-bind': 2,
