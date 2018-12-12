@@ -25,7 +25,7 @@ module.exports = {
     'arrow-body-style': 0,
     'max-lines': 0,
     'no-bitwise': 0,
-    'no-duplicate-imports': 2,
+    'no-duplicate-imports': 0,
     'no-extra-label': 2,
     'no-inner-declarations': 2,
     'no-new-symbol': 2,
